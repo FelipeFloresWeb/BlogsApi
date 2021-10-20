@@ -1,5 +1,5 @@
 
-# Bem vindo ao repositório do projeto Blogs API (Back End)!
+# Bem vindo ao repositório do projeto Blogs API (Back End)
 
 ## Meus comentários
 
@@ -19,7 +19,7 @@ Projeto realizado em 2 dias na escola Trybe, aprendi mais sobre a parte de backe
   git clone git@github.com:FelipeFloresWeb/BlogsApi.git
 ```
 
-3.Apos instale todas as dependencias necessárias com o npm install:
+3. Após instale todas as dependencias necessárias com o npm install:
 ```javascript
   npm install
 ```
